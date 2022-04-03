@@ -9,4 +9,4 @@
 6. Используйте тюнинг гиперпараметров, аргументируйте свой выбор
 7. Выведите метрики по полученной модели (основная метрика confusion matrix)
 
-На основе данной модели, разработал API, на базе FastAPI: [ссылка](https://github.com/beckmiller/FastAPI-Xgboost_model)
+## На основе данной модели, разработал API, на базе FastAPI: [ссылка](https://github.com/beckmiller/FastAPI-Xgboost_model)

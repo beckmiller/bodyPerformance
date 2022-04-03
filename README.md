@@ -1,5 +1,5 @@
 # Data analysis and build multiclassification model
-На основе данной модели, разработал API, на базе FastAPI: [ссылка](https://github.com/beckmiller/FastAPI-Xgboost_model)
+
 Основной таск: ML
 1. Сделайте предварительный анализ данных. (EDA)
 2. Создайте визуализации используя seaborn и matplotlib: графики зависимости, гистограммы, боксплот). Найдите параметр с самой большой корреляцией
@@ -9,4 +9,4 @@
 6. Используйте тюнинг гиперпараметров, аргументируйте свой выбор
 7. Выведите метрики по полученной модели (основная метрика confusion matrix)
 
-
+На основе данной модели, разработал API, на базе FastAPI: [ссылка](https://github.com/beckmiller/FastAPI-Xgboost_model)
